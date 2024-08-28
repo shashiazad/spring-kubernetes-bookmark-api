@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57b5ce1a-a4a8-4b33-aacf-0a13575f53a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bookmarker-api" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/BookmarkerApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/BookmarkerApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/api/BookmarkController.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/api/BookmarkController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/domain/Bookmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/domain/Bookmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/domain/BookmarkDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/domain/BookmarkDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/domain/BookmarkMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/domain/BookmarkMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/domain/BookmarkRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/domain/BookmarkRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/domain/BookmarkService.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/domain/BookmarkService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker_api/domain/BookmarksDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/shashilabs/bookmarker/domain/BookmarksDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/resources/db/migration/h2/V1235__sample_migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/resources/db/migration/h2/V1235__sample_migration.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/resources/db/migration/postgres/V1235__sample_migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/resources/db/migration/postgres/V1235__sample_migration.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bookmarker-api" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lHDIpdxy0mu0j1YRMLj8x30zFi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.BookmarkerApiApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "temurin-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/shashi/poweredge",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="ORM" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="X.509 Cert Buddy" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26725262" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="KafkaToolWindow" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3302696" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3764535" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="BigDataToolWindow" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Beans" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.2502604" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.2502604" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bookmarker-api/src/main/resources/db.migration/postgres" />
+      <recent name="$PROJECT_DIR$/bookmarker-api/src/main/resources/db.migration/h2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bookmarker-api/src/main/resources/db.migration/h2" />
+      <recent name="$PROJECT_DIR$/bookmarker-api/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/bookmarker-api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookmarkerApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="bookmarker-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dell.bookmarker.BookmarkerApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b5ce1a-a4a8-4b33-aacf-0a13575f53a5" name="Changes" comment="" />
+      <created>1724828031206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724828031206</updated>
+      <workItem from="1724828032687" duration="78000" />
+      <workItem from="1724828140111" duration="5704000" />
+      <workItem from="1724841341142" duration="602000" />
+      <workItem from="1724842324769" duration="2449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
